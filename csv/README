@@ -2,3 +2,5 @@ this program opens and reads the following three data files:
 customers
 orders
 products
+
+all data in these files are in CSV data format
