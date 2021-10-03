@@ -1,0 +1,14 @@
+This program opens and read the file students.json
+
+Functional requirements
+
+After every student is read the following information must be displayed:
+
+The youngest student.
+Output format: Youngest: <name>
+The oldest student.
+Output format: Oldest: <name>
+Average student age (rounded down to nearest integer).
+Output format: Average age: <average>
+Every student with an attendance lower than 30.
+Output format: Bad student: <name>
