@@ -4,3 +4,19 @@ orders
 products
 
 all data in these files are in CSV data format
+
+
+Requirements:
+
+After every row is read the following information must be displayed:
+
+Every customer.
+Output format: Customer: <name>, <address>
+Every product.
+Output format: Product: <name>, <price>
+Total amount ordered per product.
+Output format: <product name> amount: <amount>
+Total money spent per product.
+Output format: <product name> gross income: <amount>
+Total money spent per customer.
+Output format: <name> money spent: <amount>
